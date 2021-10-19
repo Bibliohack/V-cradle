@@ -6,6 +6,6 @@ Bibliohack's V-cradle Book Scanner documentation (open hardware project)
 
 This device has been successfully installed and used in various heritage institutions to carry out low-cost digitization projects. 
 
-![](media/vshape.jpg)
+![](media/vcradle.jpg)
 
 (this documentation is in its initial stages of development!)
