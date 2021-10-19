@@ -21,7 +21,7 @@ Vectors (SVG and PDF) of all MDF pieces arranged in a cutting area of 1250x900 m
 
 [print/1250x900](print/1250x900)
 
-### BIM
+### BOM
 
 Coming soon!
 
