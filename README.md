@@ -5,7 +5,7 @@ This device has been successfully installed and used in various heritage institu
 
 ### FreeCAD project
 
-<https://github.com/Bibliohack/V-cradle/tree/master/FreeCAD/VShape> (open Main_Assembly.FCStd file)
+[FreeCAD/VShape](FreeCAD/VShape) (open Main_Assembly.FCStd file)
 
 ![](media/vshape.gif)
 
