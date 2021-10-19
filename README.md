@@ -15,7 +15,17 @@ This device has been successfully installed and used in various heritage institu
 
 ![](media/assembly.jpg)
 
-### device installed 
+### Laser-cut Vectors
+
+Vectors (SVG and PDF) of all MDF pieces arranged in a cutting area of 1250x900 mm. Two thicknesses of MDF are used: 9mm and 5.5mm.
+
+[V-cradle/print/1250x900](V-cradle/print/1250x900)
+
+### BIM
+
+Coming soon!
+
+### Images of the device installed
 
 ![](media/uca.jpg)
 
